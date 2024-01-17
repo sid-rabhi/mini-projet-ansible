@@ -1,0 +1,3 @@
+# group_vars/prod.yml
+web_server_port: 80
+apache_container_port: 80

@@ -1,0 +1,8 @@
+
+    staging:
+      hosts:
+        client1:
+        client2:
+    prod:
+      hosts:
+        client3:
